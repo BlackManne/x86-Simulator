@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cddaecba-4e10-4564-b6f4-606e3eed2441" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/src/main/java/cpu/alu/FPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/src/main/java/cpu/alu/FPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/src/main/java/util/ALU.java" beforeDir="false" afterPath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/src/main/java/util/ALU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/target/classes/cpu/alu/FPU.class" beforeDir="false" afterPath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/target/classes/cpu/alu/FPU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/target/classes/util/ALU.class" beforeDir="false" afterPath="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5/target/classes/util/ALU.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf" />
+  </component>
+  <component name="ProjectId" id="1lkG5HmEvWYrLkQ2XQDgzn9OHnC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/60ac66e162304f18a07ab1b911886ebf/381-coa20_hw5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cddaecba-4e10-4564-b6f4-606e3eed2441" name="Default Changelist" comment="" />
+      <created>1608133490900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608133490900</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="63" key="#Project_Structure" timestamp="1608133497671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="63" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1608133497671" />
+    <state x="636" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1608133508782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="636" y="293" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1608133508782" />
+    <state x="565" y="159" key="FileChooserDialogImpl" timestamp="1609940202774">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609940202774" />
+  </component>
+</project>
